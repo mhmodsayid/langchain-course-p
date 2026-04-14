@@ -150,6 +150,9 @@ activemq-data/
 # Environments
 .env
 .envrc
+
+# Local TLS bundle (sensitive; do not commit)
+certs.pem
 .venv
 env/
 venv/
